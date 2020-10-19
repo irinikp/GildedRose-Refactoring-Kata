@@ -1,0 +1,19 @@
+{
+  "require": {
+    "php": "^7.3"
+  },
+  "require-dev": {
+    "mockery/mockery": "^1.4",
+    "phpunit/phpunit": "^9.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "CustomProject\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Tests\\": "tests/"
+    }
+  }
+}
