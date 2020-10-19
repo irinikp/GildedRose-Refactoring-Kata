@@ -44,7 +44,6 @@ composer install
 The project uses composer to install:
 
 - [PHPUnit](https://phpunit.de/)
-- [ApprovalTests.PHP](https://github.com/approvals/ApprovalTests.php)
 - [PHPStan](https://github.com/phpstan/phpstan)
 - [Easy Coding Standard (ECS)](https://github.com/symplify/easy-coding-standard) 
 - [PHP CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer/wiki)
@@ -56,9 +55,6 @@ The project uses composer to install:
   - `GildedRose.php` - this class needs to be refactored, and the new feature added.
 - `tests` - contains the tests
   - `GildedRoseTest.php` - Starter test.
-  - `ApprovalTest.php` - alternative approval test (set to 30 days)
-- `Fixture`
-  - `texttest_fixture.php` used by the approval test, or can be run from the command line
 
 ## Testing
 

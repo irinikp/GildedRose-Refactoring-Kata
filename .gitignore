@@ -4,5 +4,4 @@ phpunit.phar
 .phpunit.result.cache
 phpunit.phar
 build/
-tests/approvals
 composer.phar
