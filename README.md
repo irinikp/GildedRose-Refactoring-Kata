@@ -4,7 +4,7 @@ This Kata was originally created by Terry Hughes (http://twitter.com/TerryHughes
 
 ## How will we use this Kata
 
-We will do this Kata during the JaduCon#4. We will begin by reading the ["Gilded Rose Requirements"](https://github.com/irinikp/GildedRose-Refactoring-Kata/tree/master/GildedRoseRequirements.txt) which explains what the code is for. 
+We will do this Kata during the JaduCon#4. We will begin by reading the ["Gilded Rose Requirements"](https://github.com/irinikp/GildedRose-Refactoring-Kata/tree/master/GildedRoseRequirements.md) which explains what the code is for. 
 
 Then we will do some mob programming, and follow the Driver/Navigators pattern. The Driver sits at the keyboard and types in the code. The Navigators discuss the idea being coded and guide the Driver in creating the code. Participants discuss and work out the possibilities verbally  so everyone is gaining a full understanding of the idea. This creates a sort of collective intelligence of the team as a whole.
 
