@@ -15,6 +15,6 @@ class GildedRoseTest extends TestCase
         $items = [new Item('foo', 0, 0)];
         $gildedRose = new GildedRose($items);
         $gildedRose->updateQuality();
-        $this->assertSame('foo', $items[0]->name);
+        static::assertSame('foo', $items[0]->name);
     }
 }
